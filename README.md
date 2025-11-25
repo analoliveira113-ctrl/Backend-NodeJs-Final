@@ -13,4 +13,4 @@ No terminal, rodar: Npm install cors dotenv @supabase/supabase-js
 - 6º passo\
 No terminal, rodar: Node server.js
 
-
+LINK apresentação: https://www.canva.com/design/DAG5tRjvk84/AfgYC-wJkA7kmQ95H7Kp9Q/edit?utm_content=DAG5tRjvk84&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
